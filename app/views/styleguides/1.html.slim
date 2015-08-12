@@ -2,5 +2,9 @@
 / The definition for `1.1` can be found in your app/assets/stylesheets/ folder.
 
 = kss_block '1.1' do
-  div.example
+  div class="example $modifier_class"
     | Example markup
+    .foo
+      = "#{'bar'}"
+  #bar
+    | xyz
