@@ -56,6 +56,6 @@ group :development, :test do
   gem 'html2slim'
 
   # styleguide
-  gem 'nkss-rails', github: 'nalabjp/nkss-rails'
+  gem 'nkss-rails', github: 'nalabjp/nkss-rails', tag: 'v0.1.0'
 end
 
