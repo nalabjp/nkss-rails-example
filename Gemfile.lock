@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/nalabjp/nkss-rails.git
-  revision: 09b20a0825e0819acc9691a20c54568d5bb44e86
+  revision: f2a3562be993422db4b7604489aa64ac2423a41a
   specs:
     nkss-rails (0.0.2)
       bluecloth
