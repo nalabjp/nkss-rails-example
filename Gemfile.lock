@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/nalabjp/nkss-rails.git
-  revision: a495fe69ce7afd54a329c3d4552a1f34d073156f
+  revision: d04f4c633527317a52f08ca98caf7d13f82cbf34
   tag: v0.1.0
   specs:
     nkss-rails (0.1.0)
