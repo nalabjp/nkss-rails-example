@@ -1,13 +1,13 @@
 GIT
   remote: git://github.com/nalabjp/nkss-rails.git
-  revision: 8cf8739085df1251606f08173032b4ea2654056d
-  tag: v0.1.2
+  revision: 06a24a0381ff6c032b9fce5b390ccf971f2ca0ea
+  tag: v0.1.3
   specs:
-    nkss-rails (0.1.2)
-      bluecloth
+    nkss-rails (0.1.3)
       ffaker
       kss
       rails (>= 3.2.0)
+      redcarpet
       slim
 
 GEM
@@ -51,7 +51,6 @@ GEM
     arel (6.0.3)
     binding_of_caller (0.7.2)
       debug_inspector (>= 0.0.1)
-    bluecloth (2.2.0)
     builder (3.2.2)
     byebug (5.0.0)
       columnize (= 0.9.0)
@@ -138,6 +137,7 @@ GEM
       thor (>= 0.18.1, < 2.0)
     rake (10.4.2)
     rdoc (4.2.0)
+    redcarpet (3.3.2)
     sass (3.4.16)
     sass-rails (5.0.3)
       railties (>= 4.0.0, < 5.0)
